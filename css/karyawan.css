@@ -5,10 +5,12 @@ body{
 }
 
 .jumbotron {
-	height: 450px;
+	height: 300px;
 	background-image: url('../img/cc.jpg');
 	background-attachment: fixed;
 	background-size: cover;
-	background-position: 0 -100px;
-	color: black;
+	background-position: 0 -160px;
+	color: blue;
 }
+
+
